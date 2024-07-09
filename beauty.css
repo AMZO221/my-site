@@ -1,0 +1,83 @@
+body{
+    color: black;
+    background-color: white;
+}
+.info{
+    height: 250px;
+    width: 100%;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 25px;
+    text-indent: 10px;
+
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+}
+.edc{
+    height: 500px;
+    width: 88%;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 25px;
+}
+.diplome{
+    height: 25%;
+    width: 75%;
+    background-color: aqua;
+    border-radius: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+
+}
+.lep{
+    height: 25%;
+    width: 75%;
+    background-color: aqua;
+    border-radius: 20px;
+    margin-left:25%;
+    margin-top: 30px;
+
+}
+h4{
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+.ddc{
+    height: 25%;
+    width: 75%;
+    background-color: aqua;
+    border-radius: 20px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.exp{
+    height: 250px;
+    width: 75%;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 25px;
+    text-indent: 10px;
+}
+.ref{
+    height: 200px;
+    width: 65%;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 25px;
+    text-indent: 10px;
+}
+.divers{
+    height: 150px;
+    width: 55%;
+    background-color: blue;
+    color: whitesmoke;
+    border-radius: 25px;
+    text-indent: 10px;
+}
